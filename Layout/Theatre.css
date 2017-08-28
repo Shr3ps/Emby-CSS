@@ -30,7 +30,7 @@ div.paperList, .activeSession:not(.playingSession) .sessionNowPlayingInnerConten
 }
 
 /*--------------------------------------------------------------Emby Theater Detail View Mod (originally created by bfir3)------------------------------------------*/
-@media (min-width: 1450px) {
+@media (min-width: 1000px) {
 div#itemDetailPage {
     width: 100%;
     float: left;
